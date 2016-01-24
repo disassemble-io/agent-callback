@@ -1,2 +1,2 @@
 # agent-callback
-A Java-Agent for inspecting method calls at runtime
+A Java-Agent for inspecting method calls and their arguments at runtime
