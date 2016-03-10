@@ -1,4 +1,4 @@
-package me.sedlar.agent.callback;
+package io.disassemble.agent.callback;
 
 /**
  * @author Tyler Sedlar

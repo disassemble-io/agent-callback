@@ -1,4 +1,4 @@
-package me.sedlar.agent.callback;
+package io.disassemble.agent.callback;
 
 import jdk.internal.org.objectweb.asm.Type;
 import jdk.internal.org.objectweb.asm.commons.GeneratorAdapter;

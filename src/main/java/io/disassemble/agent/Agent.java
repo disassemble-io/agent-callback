@@ -1,4 +1,4 @@
-package me.sedlar.agent;
+package io.disassemble.agent;
 
 import com.sun.tools.attach.VirtualMachine;
 import jdk.internal.org.objectweb.asm.ClassReader;

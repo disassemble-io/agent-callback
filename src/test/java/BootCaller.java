@@ -1,5 +1,5 @@
-import me.sedlar.agent.CallbackAgent;
-import me.sedlar.agent.callback.CallFactory;
+import io.disassemble.agent.CallbackAgent;
+import io.disassemble.agent.callback.CallFactory;
 
 import java.util.Arrays;
 

@@ -1,8 +1,8 @@
-package me.sedlar.agent;
+package io.disassemble.agent;
 
+import io.disassemble.agent.callback.CallFactory;
 import jdk.internal.org.objectweb.asm.tree.ClassNode;
 import jdk.internal.org.objectweb.asm.tree.MethodNode;
-import me.sedlar.agent.callback.CallFactory;
 
 import java.lang.instrument.Instrumentation;
 import java.util.function.Predicate;
