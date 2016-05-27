@@ -1,8 +1,8 @@
 package io.disassemble.agent;
 
 import io.disassemble.agent.callback.CallFactory;
-import jdk.internal.org.objectweb.asm.tree.ClassNode;
-import jdk.internal.org.objectweb.asm.tree.MethodNode;
+import org.objectweb.asm.tree.ClassNode;
+import org.objectweb.asm.tree.MethodNode;
 
 import java.lang.instrument.Instrumentation;
 import java.util.function.Predicate;
